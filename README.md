@@ -51,7 +51,7 @@ Install Horizon UI by running either of the following:
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/horizon-ui/horizon-ui-chakra-nextjs.git
+git clone https://github.com/horizon-ui/horizon-ui-chakra-admini-template-in-nextjs-typescript.git
 ```
 
 Run in terminal this command:
